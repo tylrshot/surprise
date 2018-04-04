@@ -1,0 +1,27 @@
+html {
+    background: lightblue;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 400;
+    color: lightcoral;
+    margin-bottom: 16;
+    font-size: 42;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: 300;
+    color: darkslategray;
+    margin-top: 10;
+    margin-bottom: 2;
+}
+
+button {
+    margin-top: 25;
+    background-color: lightgoldenrodyellow;
+    color: darkslategray;
+    font-size: 15;
+    
+}
